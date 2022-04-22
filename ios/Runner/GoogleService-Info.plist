@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551403152583-nb8c8gjvv2i3fapfa5ffbdqn3mp689lm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551403152583-nb8c8gjvv2i3fapfa5ffbdqn3mp689lm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>551403152583-tccrds2p5g59aa14rq2lltiibge11ii2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAg-XsgqeCKeOtyTrY5ftUCsxv-kJgD5o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551403152583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nascence.haermes.lite</string>
+	<key>PROJECT_ID</key>
+	<string>haermes-41d35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haermes-41d35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551403152583:ios:311122cd10afa3d2ffcae2</string>
+	<key>DATABASE_URL</key>
+	<string>https://haermes-41d35.firebaseio.com</string>
+</dict>
+</plist>
